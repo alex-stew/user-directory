@@ -12,9 +12,8 @@ https://alex-stew.github.io/user-directory/
 
 
 ## Contributors
-Stuart Langridge
-Sorttable - https://www.kryogenix.org/code/browser/sorttable/ 
-Thank you for the excellent open source code to make sorting tables easy. 
+- Stuart Langridge of Kryogenix
+    - Sorttable - https://www.kryogenix.org/code/browser/sorttable/ Thank you for the excellent open source code to make sorting tables easy. 
 
 ## Technologies
 React
