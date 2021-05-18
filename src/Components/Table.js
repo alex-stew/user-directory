@@ -17,7 +17,8 @@ function Table({ users }) {
 
     return (
         <div>
-            <table style={{ width: '80%', margin: 'auto', justifyContent: 'center'}} className="table table-striped sortable" id="sortTable" >
+            {/* the class name sortable references the library saved in the head tag for index.html */}
+            <table style={{ width: '80%', margin: 'auto', justifyContent: 'center'}} className="table sortable table-striped" id="sortTable" >
                 <thead className="table-header">
                     <tr>
                         <th scope="col">PHOTO</th>
