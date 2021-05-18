@@ -1,0 +1,14 @@
+.headerBox {
+    background: rgb(2,0,36);
+}
+
+.headerContent {
+    color: #eeebd9;
+    text-align: right;
+    padding: 2rem;
+}
+
+.headerContent p {
+    font-weight: bold;
+    font-style: italic;
+}

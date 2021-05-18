@@ -1,0 +1,17 @@
+.app {
+    background-color: #eeebd9;
+    height: 100%;
+    width: 100vw;
+}
+
+.searchContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.form-control {
+    width: 85vw;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+

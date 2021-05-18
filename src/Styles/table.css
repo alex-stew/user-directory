@@ -1,0 +1,14 @@
+.table-header {
+    background-color: rgb(2,0,36);
+    color: #eeebd9;
+    text-align: center;
+    padding: 3px;
+}
+
+.table-body {
+    text-align: center;
+}
+
+.td {
+    justify-content: center;
+}
