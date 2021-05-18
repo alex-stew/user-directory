@@ -2,6 +2,19 @@ import React from 'react';
 import "../Styles/table.css";
 
 function Table({ users }) {
+    
+    // const { user } = users;
+    // let sortedUsers = [...user];
+    // sortedUsers.sort((a,b) => {
+    //     if (a.name < b.name) {
+    //         return -1;
+    //     }
+    //     if (a.name > b.name) {
+    //         return 1;
+    //     }
+    //     return 0;
+    // });
+
     return (
         <div>
             <table style={{ width: '80%', margin: 'auto', justifyContent: 'center'}} className="table table-striped sortable" id="sortTable" >
