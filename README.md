@@ -12,7 +12,9 @@ https://alex-stew.github.io/user-directory/
 
 
 ## Contributors
-- Stuart Langridge of Kryogenix
+- BenjaminLee-boop (github) for directing me to the resource below:
+ 
+    - Stuart Langridge of Kryogenix
     - Sorttable - https://www.kryogenix.org/code/browser/sorttable/ Thank you for the excellent open source code to make sorting tables easy. 
 
 ## Technologies
